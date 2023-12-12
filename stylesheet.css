@@ -1,0 +1,16 @@
+#TABLEEEEEEE{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+td:hover{
+    background-color: red;
+    cursor: pointer;
+}
